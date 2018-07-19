@@ -8,4 +8,4 @@ void sha256(String input) {
 }
 
 // net - https://gist.github.com/junsuk5/f0ff2298e17853dc48e89f2dfc7bd985
-// rock - https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/
+// lock - https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/
