@@ -83,3 +83,5 @@ def snailNumber(array, r, c):
             if (i == tmp - 1):
                 curr_direct = next_direct[curr_direct]
             curr_point = (curr_point[0] + move[curr_direct][0], curr_point[1] + move[curr_direct][1])
+			
+https://stackoverflow.com/questions/7840389/print-2-d-array-in-spiral-order			
