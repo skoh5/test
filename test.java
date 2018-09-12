@@ -45,3 +45,5 @@ private long lcm(int p, int q) {
 
 //query
 // from, where, rownum, group by, having, select, order by
+// TO_DATE(... , 'YYYY/MM/DD HH24:MI:SS')
+
