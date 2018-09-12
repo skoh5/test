@@ -42,3 +42,6 @@ private long gcd(int p, int q) {
 private long lcm(int p, int q) {
 	return (long)(p*q)/gcd(p, q);
 }
+
+//query
+// from, where, rownum, group by, having, select, order by
