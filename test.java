@@ -32,6 +32,10 @@ http://blog.daum.net/_blog/BlogTypeView.do?blogid=0Nz1O&articleno=69&categoryId=
 http://hochulshin.com/java-multithreading-executor-basic/
 https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
 
+// quartz
+// update trigger
+https://www.jellyfishtechnologies.com/blog/update-the-trigger-of-quartz-job-at-runtime/
+
 // 최대공약수
 private long gcd(int p, int q) {
 	if(q == 0) return p;
