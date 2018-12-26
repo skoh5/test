@@ -27,6 +27,7 @@ Collections.sort(al, (g1, g2) -> g1.getName().compareTo(g2.getName()));
 
 //external exec
 http://blog.daum.net/_blog/BlogTypeView.do?blogid=0Nz1O&articleno=69&categoryId=29&regdt=20090430162905
+https://d2.naver.com/helloworld/1113548
 
 //thread pool
 http://hochulshin.com/java-multithreading-executor-basic/
