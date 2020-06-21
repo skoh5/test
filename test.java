@@ -21,6 +21,9 @@ while (true) {
 //list sort - 
 Collections.sort(al, (g1, g2) -> g1.getName().compareTo(g2.getName()));
 
+// Integer List to int[]
+list.stream().mapToInt(i->i.intValue()).toArray();
+
 // block chain
 // http://www.bitweb.co.kr/news/list.php?mcode=m659o6x
 // https://www.popit.kr/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain/
