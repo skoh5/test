@@ -34,6 +34,8 @@ while(true) {
   }
 }
 
+// zero padding string
+String.format("%1$" + length + "s", str).replace(' ', '0');
 
 // block chain
 // http://www.bitweb.co.kr/news/list.php?mcode=m659o6x
