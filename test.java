@@ -1,3 +1,10 @@
+//reflection
+https://codechacha.com/ko/reflection/
+
+//thread pool
+http://hochulshin.com/java-multithreading-executor-basic/
+https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
+
 // make hash string
 void sha256(String input) {
   MessageDigest digest = MessageDigest.getInstance("SHA-256")
@@ -45,9 +52,7 @@ String.format("%1$" + length + "s", str).replace(' ', '0');
 http://blog.daum.net/_blog/BlogTypeView.do?blogid=0Nz1O&articleno=69&categoryId=29&regdt=20090430162905
 https://d2.naver.com/helloworld/1113548
 
-//thread pool
-http://hochulshin.com/java-multithreading-executor-basic/
-https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
+
 
 // quartz
 // update trigger
@@ -68,42 +73,5 @@ private long lcm(int p, int q) {
 // from, where, rownum, group by, having, select, order by
 // TO_DATE(... , 'YYYY/MM/DD HH24:MI:SS')
 
-def snailNumber(array, r, c):
-
-    lst = list()
-
-    cnt = 0         # 현재 출력할 수
-    curr_point = (0,0)  # 현재 수를 출력할 좌표
-    curr_direct = 'RIGHT'   # 현재 방향
-
-    # 방향을 넣으면 움직여야할 좌표를 반환하는 dictionary
-    # 이차원 리스트에서 움직일 수있는 방향은 상하좌우 4개의 방향
-    move = {'UP': (-1,0),'DOWN': (1,0),'LEFT': (0,-1),'RIGHT': (0,1)}
-
-    # 현재 방향을 넣으면 다음방향을 반환하는 dictionary
-    next_direct = {'UP': 'RIGHT','RIGHT': 'DOWN','DOWN': 'LEFT','LEFT': 'UP'}
-
-    # 방향이 바뀔때 마다 움직여야할 거리를 순서대로 list에 담음
-    for i in range(r+c-1):  
-        if i % 2 is 0:
-            lst.append(c)
-            r = r - 1            
-        else:
-            lst.append(r)
-            c = c - 1
-    print(lst)
- # array에 차례로 숫자를 씀
-#------------------------------------------------
-# 이 부분에 코딩하시오.
-
-    for tmp in lst :
-        i = 0
-        for i in range(0, tmp) :
-            array[curr_point[0]][curr_point[1]] = cnt
-            cnt = cnt + 1
-            if (i == tmp - 1):
-                curr_direct = next_direct[curr_direct]
-            curr_point = (curr_point[0] + move[curr_direct][0], curr_point[1] + move[curr_direct][1])
-			
 https://stackoverflow.com/questions/7840389/print-2-d-array-in-spiral-order			
 http://codingdojang.com/scode/266
