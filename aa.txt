@@ -1,0 +1,44 @@
+
+취합 검사법 
+http://www.hani.co.kr/arti/society/health/936416.html
+http://dongascience.donga.com/news.php?idx=36758
+
+여러명의 검체를 묶어 검사 진행  => 양성이 나오면 개별검사 진행 
+
+신종코로나 검사법 
+https://www.ibric.org/myboard/read.php?Board=report&id=3492
+
+GPU, CPU
+https://light-tree.tistory.com/25
+
+신종감염병 대응 AI 기술 동향 분석 
+https://www.bioin.or.kr/InnoDS/data/upload/tech/5451f42c29f44b0fa12fdc0c39fee06f.pdf
+
+그래프DB (Neo4J)
+사람 접촉 경로 추적을 통한 검사 대상자 추적 및 분석 (상점 체크인, 대중교통 이용 내역, 항공/선박 발권 정보, 진단인 우편번호 등)
+발병 지역  또는 감염 범위 식별 
+
+손쉬운 분석을 위한 MLDL과 대용량 분산병렬 처리 Spark 연계 ( pyspark, sparkR ... Koalas)
+https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd
+https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/index.html
+
+
+NVLink RMDA horovod
+RDMA (Remote direct memory access)
+https://developer.nvidia.com/gpudirect
+
+
+항공사 발권 데이터를 분석하여 감염된 사람의 예상 이동 경로 파악 
+코로나 진단시 우편번호와 같은 환자 정보 이용하여 바이러스 발병 지역 또는 감염 범위 식별 
+
+CT 촬용을 통해 AI 기반 이미징 및 진단 시스템. (폐CT 검진 등)
+딥러닝 기술을 이용하여 수천개의 분자를 검토하고 코로나 19에 적합한 분자구조를  추려 제약사에 공급 
+
+ML을 이용하여 기존 치료제 가운데 코로나19 분자 구조와 가장 유사한 치료제 검색 
+
+바이러스 샘플 없이  인터넷 공개된 유전자 정보를 AI로 분석하여 진단키트 개발 
+
+무인 열감지 검역 솔루션 : 열화상 카메라 정확도 개선하고 무인 모니터링 및 원격관제가 가능한 SW
+
+
+https://www.idhjournal.com.au/article/S2468-0451(18)30144-5/fulltext
