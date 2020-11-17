@@ -22,10 +22,12 @@ https://www.bioin.or.kr/InnoDS/data/upload/tech/5451f42c29f44b0fa12fdc0c39fee06f
 https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd
 https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/index.html
 
-
-NVLink RMDA horovod
+horovod (openMPI)
+NVLink (박스 내의 여러장)
+GPUDirect (infiniband(40~100G로 연결된 박스 간 P2P)
 RDMA (Remote direct memory access)
 https://developer.nvidia.com/gpudirect
+
 
 
 항공사 발권 데이터를 분석하여 감염된 사람의 예상 이동 경로 파악 
