@@ -76,3 +76,9 @@ private long lcm(int p, int q) {
 
 https://stackoverflow.com/questions/7840389/print-2-d-array-in-spiral-order			
 http://codingdojang.com/scode/266
+
+// jetty - client
+https://www.eclipse.org/jetty/documentation/jetty-9/index.html#http-client
+
+// jetty - server 
+https://www.eclipse.org/jetty/documentation/jetty-9/index.html#jetty-helloworld
