@@ -82,3 +82,6 @@ https://www.eclipse.org/jetty/documentation/jetty-9/index.html#http-client
 
 // jetty - server 
 https://www.eclipse.org/jetty/documentation/jetty-9/index.html#jetty-helloworld
+
+// gson
+https://mkyong.com/java/how-do-convert-java-object-to-from-json-format-gson-api/
